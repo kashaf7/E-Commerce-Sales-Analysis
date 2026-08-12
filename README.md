@@ -141,40 +141,27 @@ Based on these metrics, customers were categorized into:
 
 ---
 
-# 📈 Visualizations
+## 📊 Visualizations
 
-The project includes the following visualizations:
-
-### 📅 Monthly Revenue Trend
+### Monthly Revenue Trend
 
 ![Monthly Revenue Trend](images/monthly_revenue_trend.png)
 
-### 🛍️ Revenue by Product Category
-
-![Revenue by Product Category](images/revenue_by_product_category.png)
-
-### 🌍 Revenue by Region
+### Revenue by Region
 
 ![Revenue by Region](images/revenue_by_region.png)
 
-### 👥 Revenue by Customer Segment
+### Revenue by Customer Segment
 
 ![Revenue by Customer Segment](images/revenue_by_customer_segment.png)
 
-### 🏆 Top 10 Products by Revenue
+### Top 10 Products by Revenue
 
-![Top 10 Products](images/top_10_products_by_revenue.png)
+![Top 10 Products by Revenue](images/top_10_products.png)
 
-### 💰 Top 10 Customers by Revenue
+### Customer Segmentation Distribution
 
-![Top 10 Customers](images/top_10_customers_by_revenue.png)
-
-### 🎯 Customer Segmentation Distribution
-
-![Customer Segmentation](images/customer_segmentation_distribution.png)
-
----
-
+![Customer Segmentation Distribution](images/customer_segmentation.png)
 # 🛠️ Technologies Used
 
 - **Python**
