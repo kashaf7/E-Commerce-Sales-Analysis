@@ -1,0 +1,101 @@
+product_id,product_name,category,price,stock_quantity
+1,Laptop,Electronics,57994.93,78
+2,Wireless Mouse,Electronics,826.86,19
+3,Keyboard,Electronics,2625.01,47
+4,Headphones,Electronics,6232.39,21
+5,Smartphone,Electronics,60993.48,19
+6,Smart Watch,Electronics,9075.76,84
+7,Bluetooth Speaker,Electronics,8976.08,50
+8,Monitor,Electronics,19432.89,14
+9,Tablet,Electronics,24309.59,52
+10,Webcam,Electronics,5376.54,96
+11,Power Bank,Electronics,3802.29,94
+12,USB Hub,Electronics,2459.4,25
+13,External SSD,Electronics,9237.08,58
+14,Router,Electronics,6842.78,54
+15,Gaming Controller,Electronics,3589.44,83
+16,Office Chair,Furniture,15771.29,46
+17,Study Table,Furniture,6664.68,69
+18,Bookshelf,Furniture,4738.87,39
+19,Bedside Table,Furniture,3171.34,82
+20,Sofa,Furniture,39805.25,88
+21,Dining Chair,Furniture,4472.7,70
+22,Coffee Table,Furniture,7167.91,47
+23,Office Desk,Furniture,18396.69,44
+24,Storage Cabinet,Furniture,17126.14,94
+25,Floor Lamp,Furniture,3640.01,80
+26,Backpack,Accessories,2072.72,39
+27,Wallet,Accessories,1635.87,44
+28,Sunglasses,Accessories,3566.76,52
+29,Belt,Accessories,1442.48,43
+30,Travel Bag,Accessories,2686.64,39
+31,Laptop Sleeve,Accessories,1205.75,58
+32,Water Bottle,Accessories,632.49,18
+33,Phone Case,Accessories,936.96,98
+34,Key Holder,Accessories,350.18,45
+35,Travel Organizer,Accessories,1209.61,78
+36,Running Shoes,Footwear,3009.89,78
+37,Casual Shoes,Footwear,4824.48,98
+38,Formal Shoes,Footwear,5067.49,94
+39,Sneakers,Footwear,6013.69,100
+40,Sandals,Footwear,2396.49,14
+41,Sports Shoes,Footwear,4280.17,19
+42,Walking Shoes,Footwear,3526.42,94
+43,Loafers,Footwear,1821.71,66
+44,Slippers,Footwear,1116.5,13
+45,Boots,Footwear,6157.34,17
+46,Mixer Grinder,Home & Kitchen,6217.3,12
+47,Electric Kettle,Home & Kitchen,3130.36,31
+48,Air Fryer,Home & Kitchen,6527.42,55
+49,Coffee Maker,Home & Kitchen,2551.99,61
+50,Cookware Set,Home & Kitchen,4015.8,81
+51,Dinner Set,Home & Kitchen,5418.07,99
+52,Toaster,Home & Kitchen,2782.22,43
+53,Lunch Box,Home & Kitchen,651.44,71
+54,Storage Container Set,Home & Kitchen,2049.82,24
+55,Induction Cooktop,Home & Kitchen,2939.43,29
+56,Notebook,Office Supplies,388.93,58
+57,Pen Set,Office Supplies,485.43,82
+58,Desk Organizer,Office Supplies,390.71,87
+59,Stapler,Office Supplies,405.25,97
+60,Printer Paper,Office Supplies,381.06,89
+61,File Folder Set,Office Supplies,205.61,45
+62,Whiteboard,Office Supplies,1567.17,83
+63,Calculator,Office Supplies,955.49,68
+64,Sticky Notes,Office Supplies,243.95,99
+65,Marker Set,Office Supplies,323.99,95
+66,Smart TV,Electronics,61292.01,27
+67,Earbuds,Electronics,5275.46,25
+68,Mechanical Keyboard,Electronics,5460.65,74
+69,Graphics Tablet,Electronics,9360.74,57
+70,Microphone,Electronics,7231.23,62
+71,Mini Projector,Electronics,7406.14,24
+72,Smart Plug,Electronics,953.28,89
+73,Recliner,Furniture,18192.18,76
+74,Dining Table,Furniture,18924.35,45
+75,Wardrobe,Furniture,44807.59,69
+76,Shoe Rack,Furniture,7357.75,68
+77,Bean Bag,Furniture,5779.62,51
+78,Travel Pouch,Accessories,1010.49,62
+79,Laptop Stand,Accessories,2782.17,17
+80,Cable Organizer,Accessories,298.04,23
+81,Card Holder,Accessories,631.53,87
+82,Cap,Accessories,1221.96,66
+83,Hiking Shoes,Footwear,4742.53,19
+84,Training Shoes,Footwear,4875.5,86
+85,Flip Flops,Footwear,460.42,24
+86,Heels,Footwear,4437.73,71
+87,Canvas Shoes,Footwear,2175.83,76
+88,Hand Blender,Home & Kitchen,3075.5,45
+89,Rice Cooker,Home & Kitchen,3390.34,17
+90,Vacuum Cleaner,Home & Kitchen,16104.16,26
+91,Water Purifier,Home & Kitchen,11426.26,65
+92,Non Stick Pan,Home & Kitchen,2248.85,32
+93,Desk Mat,Office Supplies,649.37,45
+94,Paper Shredder,Office Supplies,5672.67,49
+95,A4 Envelope Pack,Office Supplies,180.47,69
+96,Clipboard,Office Supplies,463.77,16
+97,Desk Calendar,Office Supplies,170.13,53
+98,Label Maker,Office Supplies,4132.36,15
+99,Document Tray,Office Supplies,920.31,11
+100,USB-C Charger,Electronics,900.0,70
